@@ -39,13 +39,20 @@
 
     }
 ### 链接
-1.[点击这里你可以链接到www.google.com](http://www.google.com)<br />
-2.[点击这里我你可以链接到我的博客](http://guoyunsky.iteye.com)<br />
+1.\[点击这里你可以链接到www.google.com\](http://www.google.com)<br />
+2.\[点击这里我你可以链接到我的博客\](http://www.361way.com)<br />
+示例如下：
+[点击这里你可以链接到www.google.com](http://www.google.com)<br />
+[点击这里我你可以链接到我的博客](http://www.361way.com)<br />
 
 ###只是显示图片
-![github](http://github.com/unicorn.png "github")
+\!\[github\](http://www.361way.com/wp-content/uploads/juanzheng.png "向我捐赠")
+![github](http://www.361way.com/wp-content/uploads/juanzheng.png "向我捐赠")
 
 ###想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com
+\[\!\[image\]\](http://www.361way.com/)
+\[image\]: http://github.com/github.png "github"
+
 [![image]](http://www.github.com/)
 [image]: http://github.com/github.png "github"
 
