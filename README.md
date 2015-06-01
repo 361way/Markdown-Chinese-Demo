@@ -52,9 +52,10 @@
 
 ###想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com
 \[\!\[image\]\](http://www.361way.com/)<br />
-\[image\]: http://github.com/github.png "github"
+\[image\]: http://www.361way.com/wp-content/uploads/juanzheng.png "向我捐赠"
 <br />
-[![image]](http://www.github.com/)
+示例如下（点击图片进入我的博客）<br />
+[![image]](http://www.361way.com/)
 [image]: http://www.361way.com/wp-content/uploads/juanzheng.png "向我捐赠"
 
 ### 文字被些字符包围
@@ -77,8 +78,6 @@
 ### 特殊字符处理
 有一些特殊字符如<,#等,只要在特殊字符前面加上转义字符\即可<br />
 你想换行的话其实可以直接用html标签\<br /\>
-
-
 
 * 在行首加点
 行首输入*，空格后输入内容即可
