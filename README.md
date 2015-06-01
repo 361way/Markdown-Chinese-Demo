@@ -51,10 +51,10 @@
 ![github](http://www.361way.com/wp-content/uploads/juanzheng.png "向我捐赠")<br />
 
 ###想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com
-\[\!\[image\]\](http://www.361way.com/)
+\[\!\[image\]\](http://www.361way.com/)<br />
 \[image\]: http://github.com/github.png "github"
-
-[![http://www.361way.com/wp-content/uploads/juanzheng.png]](http://www.github.com/)
+<br />
+[![image]](http://www.github.com/)
 [image]: http://www.361way.com/wp-content/uploads/juanzheng.png "向我捐赠"
 
 ### 文字被些字符包围
